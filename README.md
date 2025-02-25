@@ -14,26 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/changjinhan"
-    width="600"
-    height="300"
-  />
-</a>
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=changjinhan&show_icons=true&theme=dark&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=changjinhan&show_icons=true&rank_icon=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=changjinhan&show_icons=true&rank_icon=github" />
-</picture>
-
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/changjinhan"
+      width="600"
+      height="300"
+    />
+  </a>
+  
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=changjinhan&show_icons=true&theme=dark&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=changjinhan&show_icons=true&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=changjinhan&show_icons=true&rank_icon=github" />
+  </picture>
+</div
 
 
