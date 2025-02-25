@@ -24,7 +24,8 @@ Here are some ideas to get you started:
     />
   </a>
   
-  
+  ---
+
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=changjinhan&show_icons=true&theme=dark&rank_icon=github"
