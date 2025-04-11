@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  [![Hits](https://hits.sh/github.com/changjinhan.svg?view=today-total)](https://hits.sh/github.com/changjinhan/)
+  <a href="https://hits.sh/github.com/changjinhan/"><img alt="Hits" src="https://hits.sh/github.com/changjinhan.svg?view=today-total"/></a>
 </div>
 
 <!--
