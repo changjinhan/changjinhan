@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Hits](https://hits.sh/github.com/changjinhan.svg?view=today-total)](https://hits.sh/github.com/changjinhan/)
 
 <!--
 **changjinhan/changjinhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
