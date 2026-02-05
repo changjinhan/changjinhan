@@ -1,12 +1,11 @@
 <div align="center">
   
-  ## Hi there 👋
+  ## Hi there I'm Changjin Han👋
   
   [![GitHub followers](https://img.shields.io/github/followers/changjinhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/changjinhan)
   [![GitHub User's stars](https://img.shields.io/github/stars/changjinhan?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/changjinhan)
   [![Profile Views](https://komarev.com/ghpvc/?username=changjinhan&style=for-the-badge&color=blueviolet)](https://github.com/changjinhan)
 </div>
-<br>
 
 ---
 
