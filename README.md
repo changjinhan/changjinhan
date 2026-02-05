@@ -2,6 +2,7 @@
   
 # Hi there, I'm Changjin Han👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=If+something+is+important+enough%2C+;you+do+it+even+if+the+odds+are+not+in+your+favor.)](https://git.io/typing-svg)
+
 [![GitHub followers](https://img.shields.io/github/followers/changjinhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/changjinhan)
 [![GitHub User's stars](https://img.shields.io/github/stars/changjinhan?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/changjinhan)
 [![Profile Views](https://komarev.com/ghpvc/?username=changjinhan&style=for-the-badge&color=blueviolet)](https://github.com/changjinhan)
