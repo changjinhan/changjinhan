@@ -2,7 +2,6 @@
   
   ## Hi there 👋
   
-  <a href="https://hits.sh/github.com/changjinhan/"><img alt="Hits" src="https://hits.sh/github.com/changjinhan.svg?view=today-total"/></a>\
   [![GitHub followers](https://img.shields.io/github/followers/changjinhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/changjinhan)
   [![GitHub User's stars](https://img.shields.io/github/stars/changjinhan?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/changjinhan)
   [![Profile Views](https://komarev.com/ghpvc/?username=changjinhan&style=for-the-badge&color=blueviolet)](https://github.com/changjinhan)
@@ -47,6 +46,9 @@ Here are some ideas to get you started:
 -->
 
 <!--
+
+<a href="https://hits.sh/github.com/changjinhan/"><img alt="Hits" src="https://hits.sh/github.com/changjinhan.svg?view=today-total"/></a>\
+
 ---
 <br>
 
