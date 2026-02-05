@@ -1,5 +1,5 @@
-## Hi there 👋
 <div align="center">
+  ## Hi there 👋
   <a href="https://hits.sh/github.com/changjinhan/"><img alt="Hits" src="https://hits.sh/github.com/changjinhan.svg?view=today-total"/></a>
 </div>
 <br>
@@ -20,7 +20,9 @@
 
 <div align="center">
 ### 💡 Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 <!--
