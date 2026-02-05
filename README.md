@@ -3,7 +3,9 @@
   <a href="https://hits.sh/github.com/changjinhan/"><img alt="Hits" src="https://hits.sh/github.com/changjinhan.svg?view=today-total"/></a>
 </div>
 <br>
+
 ---
+
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=changjinhan&utm_content=farm">
     <img
@@ -12,8 +14,10 @@
       height="300"
     />
   </a>
-</div>  
+</div>
+
 ---
+
 <div align="center">
 ### 💡 Random Dev Quote
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
