@@ -1,10 +1,9 @@
 <div align="center">
   
-  ## Hi there I'm Changjin Han👋
-  
-  [![GitHub followers](https://img.shields.io/github/followers/changjinhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/changjinhan)
-  [![GitHub User's stars](https://img.shields.io/github/stars/changjinhan?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/changjinhan)
-  [![Profile Views](https://komarev.com/ghpvc/?username=changjinhan&style=for-the-badge&color=blueviolet)](https://github.com/changjinhan)
+## Hi there I'm Changjin Han👋
+[![GitHub followers](https://img.shields.io/github/followers/changjinhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/changjinhan)
+[![GitHub User's stars](https://img.shields.io/github/stars/changjinhan?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/changjinhan)
+[![Profile Views](https://komarev.com/ghpvc/?username=changjinhan&style=for-the-badge&color=blueviolet)](https://github.com/changjinhan)
 </div>
 
 ---
@@ -21,11 +20,21 @@
 
 ---
 
+## 📈 Contribution Graph
+
 <div align="center">
 
-  ### 💡 Random Dev Quote
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeachan-Heo&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
