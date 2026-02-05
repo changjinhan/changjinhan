@@ -27,8 +27,14 @@ Here are some ideas to get you started:
       height="300"
     />
   </a>
-  
-<a></a>
+</div>  
+
+<div align="center">
+
+### 💡 Random Dev Quote
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
 <!--
 ---
 <br>
